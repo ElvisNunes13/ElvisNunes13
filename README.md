@@ -40,11 +40,13 @@
     <img align="center" height="40" width="50" alt"sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 </div></br>
 
-<p align="center">
-   <img src="https://profile-counter.glitch.me/ElvisNunes13/count.svg" />
-</p></br>
-
-
+![snake gif](https://github.com/ElvisNunes13/ElvisNunes13/blob/output/github-contribution-grid-snake.gif)
 
 ### E-mail para contato: 
 elvisfnunes@gmail.com
+<br/>
+<br/>
+
+<p align="center">
+   <img src="https://profile-counter.glitch.me/ElvisNunes13/count.svg" />
+</p></br>
