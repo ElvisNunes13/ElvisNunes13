@@ -26,7 +26,7 @@
 <div style="display: inline_block"><br/>
     <img align="center" height="40" width="50" alt"vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
     <img align="center" height="40" width="50" alt"git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img align="center" height="40" width="50" alt"bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
+    <img align="center" height="40" width="50" alt"bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
     <img align="center" height="40" width="50" alt"github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
     <img align="center" height="40" width="50" alt"linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
     <img align="center" height="40" width="50" alt"gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
