@@ -35,7 +35,7 @@
     <img align="center" height="40" width="50" alt"npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img align="center" height="40" width="50" alt"bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
     <img align="center" height="40" width="50" alt"express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-    <img align="center" height="40" width="50" alt"sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center" height="40" width="50" alt"sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </div></br>
 
 ### E-mail para contato: 
