@@ -32,7 +32,6 @@
 
 ## Outras Tecnologias
 <div style="display: inline_block"></br>
-    
     <img  align="center" height="40" width="50" alt"flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img align="center" height="40" width="50" alt"npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img align="center" height="40" width="50" alt"bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
