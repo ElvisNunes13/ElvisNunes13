@@ -18,25 +18,20 @@
     <img align="center" height="40" width="50" alt"nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     <img align="center" height="40" width="50" alt"reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="center" height="40" width="50" alt"golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-
-</div></br>
-
-## Ferramentas
-<div style="display: inline_block"></br>
-    <img align="center" height="40" width="50" alt"vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
     <img align="center" height="40" width="50" alt"git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img align="center" height="40" width="50" alt"github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-    <img align="center" height="40" width="50" alt"linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-    <img align="center" height="40" width="50" alt"gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
+
 </div></br>
 
 ## Outras Tecnologias
 <div style="display: inline_block"></br>
-    <img  align="center" height="40" width="50" alt"flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img align="center" height="40" width="50" alt"npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img align="center" height="40" width="50" alt"bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
     <img align="center" height="40" width="50" alt"express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
     <img align="center" height="40" width="50" alt"sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+    <img align="center" height="40" width="50" alt"vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+    <img align="center" height="40" width="50" alt"github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+    <img align="center" height="40" width="50" alt"linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+    <img align="center" height="40" width="50" alt"gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
 </div></br>
 
 ### E-mail para contato: 
