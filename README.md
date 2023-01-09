@@ -22,6 +22,7 @@
     <img aling="center" heigth="30px" width="40px" alt="dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     <img aling="center" heigth="30px" width="40px" alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img aling="center" heigth="30px" width="40px" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img aling="center" heigth="30px" width="40px" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
  
 ### E-mail para contato: 
