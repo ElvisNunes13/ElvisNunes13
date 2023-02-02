@@ -8,12 +8,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisNunes13&theme=dark">
 </div><br/>
 
-## Sobre
-
-
-
- 
-### E-mail para contato: 
+## E-mail para contato: 
 
 elvisfnunes@gmail.com
 <br/>
